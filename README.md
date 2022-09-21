@@ -1,4 +1,4 @@
-# YOLO-face-and-car-plate-cover
+# YOLO-face-and-car-plate-cover-up
 ## Introduction
 A simple program that uses trained yolo models to cover up faces and car license plates. A company asked me to create one as they have 80000 images that needed to be checked if faces of people or license plates of cars were visible. I gathered trained models from other repositories and wrote a script that would cover the detected objects with a black geometric shape.
 
